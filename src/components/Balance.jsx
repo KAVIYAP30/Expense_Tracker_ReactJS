@@ -10,7 +10,7 @@ function Balance({transactions}) {
     <>
     <div>
       <h3>Balance</h3>
-      <h1>${total}</h1>
+      <h1>{total}</h1>
     </div>
     </>
   )
